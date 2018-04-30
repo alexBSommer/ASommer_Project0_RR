@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\bin\Debug\RestaurauntReviewerDataAccess.dll.config
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\bin\Debug\RestaurauntReviewerDataAccess.dll
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\bin\Debug\RestaurauntReviewerDataAccess.pdb
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\bin\Debug\RestarauntReviewerLibrary.dll
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\bin\Debug\RestarauntReviewerLibrary.pdb
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\obj\Debug\RestaurauntReviewerDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\obj\Debug\RestaurauntReviewerDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\obj\Debug\RestaurauntReviewerDataAccess.csproj.CopyComplete
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\obj\Debug\RestaurauntReviewerDataAccess.dll
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\obj\Debug\RestaurauntReviewerDataAccess.pdb
