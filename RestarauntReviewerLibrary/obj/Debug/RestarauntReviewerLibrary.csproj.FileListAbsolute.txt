@@ -1,0 +1,9 @@
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntReviewerLibrary\bin\Debug\RestarauntReviewerLibrary.dll
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntReviewerLibrary\bin\Debug\RestarauntReviewerLibrary.pdb
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntReviewerLibrary\bin\Debug\NLog.dll
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntReviewerLibrary\bin\Debug\NLog.xml
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntReviewerLibrary\obj\Debug\RestarauntReviewerLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntReviewerLibrary\obj\Debug\RestarauntReviewerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntReviewerLibrary\obj\Debug\RestarauntReviewerLibrary.csproj.CopyComplete
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntReviewerLibrary\obj\Debug\RestarauntReviewerLibrary.dll
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntReviewerLibrary\obj\Debug\RestarauntReviewerLibrary.pdb
