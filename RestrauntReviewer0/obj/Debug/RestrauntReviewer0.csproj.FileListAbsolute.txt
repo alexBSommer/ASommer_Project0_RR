@@ -18,3 +18,6 @@ C:\Users\Alex\source\repos\RestrauntReviewer0\RestrauntReviewer0\bin\Debug\Entit
 C:\Users\Alex\source\repos\RestrauntReviewer0\RestrauntReviewer0\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Alex\source\repos\RestrauntReviewer0\RestrauntReviewer0\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Alex\source\repos\RestrauntReviewer0\RestrauntReviewer0\bin\Debug\NLog.config
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestrauntReviewer0\bin\Debug\RestarauntDataLayer.dll
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestrauntReviewer0\bin\Debug\RestarauntDataLayer.pdb
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestrauntReviewer0\bin\Debug\RestarauntDataLayer.dll.config

@@ -71,13 +71,13 @@ namespace RestarauntReviewerLibrary
             }
             return  (tempSum / Reviews.Count);
         }
-        /*
-        public void addReview(float rating, string name)
+        
+        public void addReview(int id, int rating, string name)
         {
-            Reviews.Add(new Review(rating, name));
+            Reviews.Add(new Review(ID ,rating, name));
             SetAverage();
         }
-        */
+        
         public override string ToString()
         {
             return ($"{ID} {Name} {City} {State} {Address}");

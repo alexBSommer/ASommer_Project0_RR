@@ -10,19 +10,21 @@ using RestarauntReviewerLibrary;
 
 namespace RestarauntReviewerLibrary
 {
-    public class DataHandler
+    public static class DataHandler
     {
-        public string RestaurauntToString(Restauraunt target)
+        public static string RestaurauntToString(Restauraunt target)
         {
-
+            
             MemoryStream ms = new MemoryStream();
+            string jsonString;
             try
             {
                 DataContractJsonSerializer ser = new DataContractJsonSerializer(typeof(Restauraunt));
-                ser.WriteObject(ms, target);
                 ms.Position = 0;
                 StreamReader sr = new StreamReader(ms);
-                return sr.ReadToEnd();
+                ser.WriteObject(ms, target);
+                ms.Position = 0;
+                jsonString= sr.ReadToEnd();
             }
             catch (Exception)
             {
@@ -32,19 +34,32 @@ namespace RestarauntReviewerLibrary
             {
                 ms.Close();
             }
+            return jsonString;
         }
-        public Restauraunt StringToRestauraunt(string json)
+        public static Restauraunt StringToRestauraunt(string jsonString)
         {
             //deserializer goes here
-            Restauraunt deserializedRestauraunt = new Restauraunt();
-            MemoryStream ms = new MemoryStream(Encoding.UTF8.GetBytes(json));
-            DataContractJsonSerializer ser = new DataContractJsonSerializer(deserializedRestauraunt.GetType());
-            deserializedRestauraunt = ser.ReadObject(ms) as Restauraunt;
-            ms.Close();
+            Restauraunt deserializedRestauraunt;
+            MemoryStream ms = new MemoryStream();
+            try
+            {
+                DataContractJsonSerializer ser = new DataContractJsonSerializer(typeof(Restauraunt));
+                byte[] bytes = Encoding.ASCII.GetBytes(jsonString);
+                ms.Write(bytes, 0, Encoding.ASCII.GetByteCount(jsonString));
+                ms.Position = 0;
+                deserializedRestauraunt = (Restauraunt)ser.ReadObject(ms);
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            finally
+            {
+                ms.Close();
+            }
             return deserializedRestauraunt;
-
         }
-        public List<Restauraunt> GetRestaraunts(string json)
+        public static List<Restauraunt> GetRestaraunts(string json)
         {
             using (Stream stream = File.OpenRead(json))
             {
