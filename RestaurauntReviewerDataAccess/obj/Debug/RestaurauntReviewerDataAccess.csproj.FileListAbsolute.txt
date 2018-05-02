@@ -12,3 +12,6 @@ C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\obj\
 C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\obj\Debug\RestaurauntReviewerDataAccess.csproj.CopyComplete
 C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\obj\Debug\RestaurauntReviewerDataAccess.dll
 C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\obj\Debug\RestaurauntReviewerDataAccess.pdb
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\bin\Debug\RestarauntDataLayer.dll
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\bin\Debug\RestarauntDataLayer.pdb
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestaurauntReviewerDataAccess\bin\Debug\RestarauntDataLayer.dll.config

@@ -47,12 +47,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="RestarauntContext.cs" />
-    <Compile Include="RestarauntInitialize.cs" />
     <Compile Include="RestaurauntDbCRUD.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\RestarauntDataLayer\RestarauntDataLayer.csproj">
+      <Project>{e2513e71-9229-4732-88de-d62a7f41ffe5}</Project>
+      <Name>RestarauntDataLayer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RestarauntReviewerLibrary\RestarauntReviewerLibrary.csproj">
       <Project>{cd6b24a9-f8ea-4b0d-9e79-4737ec9eeae2}</Project>
       <Name>RestarauntReviewerLibrary</Name>

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using RestarauntReviewerLibrary;
+using RestaurauntDataLayer;
 
 namespace RestaurauntReviewerDataAccess
 {
@@ -47,6 +48,15 @@ namespace RestaurauntReviewerDataAccess
         public List<Restauraunt> SearchRestaraunts (string searchName)
         {
             return db.restauraunts.Where(b => b.Name.Contains(searchName)).ToList();
+        }
+        public List<Restauraunt> ListAllRestaraunts ()
+        {
+            List<Restauraunt> fullList = null;
+            foreach (Restauraunt r in db.restauraunts)
+            {
+                fullList.Add(r);
+            }
+            return fullList;
         }
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntDataLayer\bin\Debug\RestarauntDataLayer.dll.config
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntDataLayer\bin\Debug\RestarauntDataLayer.dll
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntDataLayer\bin\Debug\RestarauntDataLayer.pdb
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntDataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntDataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntDataLayer\bin\Debug\RestarauntReviewerLibrary.dll
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntDataLayer\bin\Debug\RestarauntReviewerLibrary.pdb
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntDataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntDataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntDataLayer\obj\Debug\RestarauntDataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntDataLayer\obj\Debug\RestarauntDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntDataLayer\obj\Debug\RestarauntDataLayer.csproj.CopyComplete
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntDataLayer\obj\Debug\RestarauntDataLayer.dll
+C:\Users\Alex\source\repos\RestrauntReviewer0\RestarauntDataLayer\obj\Debug\RestarauntDataLayer.pdb
